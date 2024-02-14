@@ -1,0 +1,11 @@
+{
+  "traitlet_configuration": {
+    "resources": {
+      "reveal": {
+        "scroll": false,
+        "theme": "simple",
+        "transition": "zoom"
+      }
+    }
+  }
+}
