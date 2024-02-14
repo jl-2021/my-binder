@@ -3,3 +3,5 @@ matplotlib>=3.5.2
 ipywidgets
 jupyterlab>=4.0
 voila>=0.5.0
+bokeh
+pandas
